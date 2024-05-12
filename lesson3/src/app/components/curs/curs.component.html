@@ -1,6 +1,0 @@
-<div [ngClass]="{'odd' :i%2==0,'even':i%2!=0}">
-    <h1>{{curs.name}}</h1>
-    <div [ngClass]="{'green':curs.hours<30,'orang':curs.hours>30 && curs.hours<60,'red':curs.hours>60}">{{curs.name}}</div>
-    <!-- <div *ngIf="curs.type=='typeCurs.frontal'||curs.type=='typeCurs.maabada'">the teacher is racheli</div> -->
-    <div [ngStyle]="{'color': curs.date >'05' ? 'red': 'blue'} "> {{curs.date}}</div>
-    <button (click)="alerrt(curs.date)">להרשמה לקורס</button>
