@@ -1,0 +1,54 @@
+Z:\B\ליהמן אסתר\Core\lesson2\bin\Debug\net6.0\appsettings.Development.json
+Z:\B\ליהמן אסתר\Core\lesson2\bin\Debug\net6.0\appsettings.json
+Z:\B\ליהמן אסתר\Core\lesson2\bin\Debug\net6.0\lesson2.exe
+Z:\B\ליהמן אסתר\Core\lesson2\bin\Debug\net6.0\lesson2.deps.json
+Z:\B\ליהמן אסתר\Core\lesson2\bin\Debug\net6.0\lesson2.runtimeconfig.json
+Z:\B\ליהמן אסתר\Core\lesson2\bin\Debug\net6.0\lesson2.dll
+Z:\B\ליהמן אסתר\Core\lesson2\bin\Debug\net6.0\lesson2.pdb
+Z:\B\ליהמן אסתר\Core\lesson2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\B\ליהמן אסתר\Core\lesson2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\ליהמן אסתר\Core\lesson2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\ליהמן אסתר\Core\lesson2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\lesson2.csproj.AssemblyReference.cache
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\lesson2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\lesson2.AssemblyInfoInputs.cache
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\lesson2.AssemblyInfo.cs
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\lesson2.csproj.CoreCompileInputs.cache
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\lesson2.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\lesson2.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\staticwebassets.build.json
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\staticwebassets.development.json
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\scopedcss\bundle\lesson2.styles.css
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\lesson2.csproj.CopyComplete
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\lesson2.dll
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\refint\lesson2.dll
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\lesson2.pdb
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\lesson2.genruntimeconfig.cache
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\ref\lesson2.dll
+D:\lesson2\bin\Debug\net6.0\appsettings.Development.json
+D:\lesson2\bin\Debug\net6.0\appsettings.json
+D:\lesson2\bin\Debug\net6.0\lesson2.exe
+D:\lesson2\bin\Debug\net6.0\lesson2.deps.json
+D:\lesson2\bin\Debug\net6.0\lesson2.runtimeconfig.json
+D:\lesson2\bin\Debug\net6.0\lesson2.dll
+D:\lesson2\bin\Debug\net6.0\lesson2.pdb
+D:\lesson2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\lesson2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\lesson2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\lesson2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\lesson2\obj\Debug\net6.0\lesson2.csproj.AssemblyReference.cache
+D:\lesson2\obj\Debug\net6.0\lesson2.GeneratedMSBuildEditorConfig.editorconfig
+D:\lesson2\obj\Debug\net6.0\lesson2.AssemblyInfoInputs.cache
+D:\lesson2\obj\Debug\net6.0\lesson2.AssemblyInfo.cs
+D:\lesson2\obj\Debug\net6.0\lesson2.csproj.CoreCompileInputs.cache
+D:\lesson2\obj\Debug\net6.0\lesson2.MvcApplicationPartsAssemblyInfo.cs
+D:\lesson2\obj\Debug\net6.0\lesson2.MvcApplicationPartsAssemblyInfo.cache
+D:\lesson2\obj\Debug\net6.0\staticwebassets.build.json
+D:\lesson2\obj\Debug\net6.0\staticwebassets.development.json
+D:\lesson2\obj\Debug\net6.0\scopedcss\bundle\lesson2.styles.css
+D:\lesson2\obj\Debug\net6.0\lesson2.csproj.CopyComplete
+D:\lesson2\obj\Debug\net6.0\lesson2.dll
+D:\lesson2\obj\Debug\net6.0\refint\lesson2.dll
+D:\lesson2\obj\Debug\net6.0\lesson2.pdb
+D:\lesson2\obj\Debug\net6.0\lesson2.genruntimeconfig.cache
+D:\lesson2\obj\Debug\net6.0\ref\lesson2.dll

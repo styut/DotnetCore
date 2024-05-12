@@ -1,0 +1,2 @@
+# DotnetCore
+Submitting homework - DotnetCore
